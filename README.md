@@ -1,5 +1,5 @@
 # MemiCoin Ecosystem the Web3 Technology
-<div align="center"><img src="https://memicoin.com/wp-content/uploads/2024/03/01eca7011bc3c78c4db4c870867859ed-removebg-preview.fw_.png" /><br />
+<div align="center"><img src="https://pstcoin.com/wp-content/uploads/2024/04/logo-pst.fw_.png" /><br />
 </div>
 <div align="center">
   <h1><br />
